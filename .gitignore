@@ -1,0 +1,7 @@
+/DATA/*
+/__pycache__/*
+/data_crop/*
+/images/*
+/keras-contrib/*
+/result/*
+/weights/*
